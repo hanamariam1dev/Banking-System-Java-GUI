@@ -1,4 +1,6 @@
+package src.main.java.core;
 import javax.swing.*;
+
 import java.awt.Font;
 public class Main {
     public static void main(String[] args) {
