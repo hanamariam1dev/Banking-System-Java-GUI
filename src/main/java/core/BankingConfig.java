@@ -1,3 +1,4 @@
+package src.main.java.core;
 import java.awt.*;
 import java.io.*;
 import java.security.SecureRandom;
